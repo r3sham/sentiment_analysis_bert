@@ -1,0 +1,9 @@
+Text,Sentiment Score,Sentiment label
+Your products are excellent. I really love the quality! However,0.574426531791687,5 stars
+The customer service team in New York was helpful in resolving my issue. I appreciate the assistance. brian@email.com,0.5543171763420105,4 stars
+The new features in the latest release are fantastic! They have greatly improved the user experience in San Francisco.,0.8357025384902954,5 stars
+The product didn't meet my expectations,0.4780275821685791,2 stars
+Your products are not good. I really don't like the quality! However,0.5138061046600342,2 stars
+The customer service team in San Francisco was not helpful in resolving my issue. But,0.5047702193260193,3 stars
+The new features in the latest release are not fantastic! They have not greatly improved the user experience in San Francisco.,0.5981982946395874,3 stars
+The product didn't meet my expectations,0.4780275821685791,2 stars
